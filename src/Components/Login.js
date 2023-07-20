@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button'
 import { useNavigate } from 'react-router-dom'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import Sm from './Components/Sm.js'
+import Sm from './Sm.js'
 
 const Login = () => {
 
