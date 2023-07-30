@@ -30,7 +30,7 @@ const Home = () => {
         const { value, name } = e.target;
         // console.log(value,name);
 
-
+        //to store the value 
         setInpval(() => {
             return {
                 ...inpval,
